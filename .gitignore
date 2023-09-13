@@ -1,0 +1,7 @@
+
+*.xml
+*.log
+*.pdf
+*.lib
+/dir
+*.doc 
